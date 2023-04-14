@@ -1,4 +1,4 @@
-baseURL = 'https://churningsheet.com/'
+baseURL = 'https://churningsheet.netlify.app/'
 languageCode = 'en-us'
 title = 'ChurningSheet - Latest credit card and bank bonus rewards'
 subtitle = "List of credit card and bank bonus rewards for churning"
