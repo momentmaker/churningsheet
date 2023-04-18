@@ -1,7 +1,7 @@
 baseURL = 'https://churningsheet.netlify.app/'
 languageCode = 'en-us'
-title = 'ChurningSheet - Latest credit card and bank bonus rewards'
-subtitle = "List of credit card and bank bonus rewards for churning"
+title = 'ChurningSheet - Latest credit card and bank reward bonuses'
+subtitle = "List of credit card and bank reward bonuses for churning. This sheet is constantly being updated."
 theme = 'terminal'
 keywords = 'credit card,bank,checking,savings,churning,bonus,rewards'
 
