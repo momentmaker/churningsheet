@@ -11,6 +11,8 @@ This sheet is constantly being updated. Check back frequently for updates.
 
 You can sort the sheet by `Last Updated` column.
 
+[Download this template sheet](https://churningsheeting.com/template) to track your own churnings.
+
 ---
 
 ## Credit Cards
