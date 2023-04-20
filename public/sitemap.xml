@@ -2,10 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://churningsheet.netlify.app/categories/</loc>
+    <loc>https://churningsheet.com/categories/</loc>
   </url><url>
-    <loc>https://churningsheet.netlify.app/</loc>
+    <loc>https://churningsheet.com/</loc>
   </url><url>
-    <loc>https://churningsheet.netlify.app/tags/</loc>
+    <loc>https://churningsheet.com/tags/</loc>
   </url>
 </urlset>
